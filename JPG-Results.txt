@@ -1,0 +1,287 @@
+
+===================================================PROGRAME FILE OUTPUT===================================================
+
+	**********************************************************************************************************
+	**                                Date & Time:2017-12-26 14:34:14.148968                                **
+	**                                         Name: Mojahed Ghadban                                        **
+	**                             Reading Files/Directories and Hashing with Python.                          **
+	**     Module to calculate the MD5 values of JPEG files within directories and subdirectories          **
+	**********************************************************************************************************
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (1) 4-Nature-Wallpapers-2014-1_ukaavUI.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 MD5(value):- [ b56c3ca44ed0e173e11ef11d9a7a4827 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (2) Background.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- Background.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- Background.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\Background.jpg
+--	 MD5(value):- [ b5c54acdfeb61dd1ee1a3bc6e60b0c3e ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (3) car-49278_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- car-49278_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- car-49278_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\car-49278_960_720.jpg
+--	 MD5(value):- [ 1f85137f3003479b8f113f851113e7d3 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (4) space-624054_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- space-624054_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- space-624054_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\space-624054_960_720.jpg
+--	 MD5(value):- [ 482b0880d29aeb65d2d84f11836b409a ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (5) waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 MD5(value):- [ 8ca075f0c009d195295210844373367d ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (6) 4-Nature-Wallpapers-2014-1_ukaavUI.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 MD5(value):- [ b56c3ca44ed0e173e11ef11d9a7a4827 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (7) Background.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- Background.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- Background.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Background.jpg
+--	 MD5(value):- [ b5c54acdfeb61dd1ee1a3bc6e60b0c3e ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (8) car-49278_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- car-49278_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- car-49278_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\car-49278_960_720.jpg
+--	 MD5(value):- [ 1f85137f3003479b8f113f851113e7d3 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (9) Clouds_over_the_Atlantic_Ocean.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- Clouds_over_the_Atlantic_Ocean.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- Clouds_over_the_Atlantic_Ocean.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Clouds_over_the_Atlantic_Ocean.jpg
+--	 MD5(value):- [ bdd0f86b92fda706eb1d756c68042106 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (10) ocean.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- ocean.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- ocean.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\ocean.jpg
+--	 MD5(value):- [ 9982059433244c04c8eb7cf0a808d0e4 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (11) space-1201086_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- space-1201086_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- space-1201086_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-1201086_960_720.jpg
+--	 MD5(value):- [ 03d804a543f2fecdd32a3e618436fe6c ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (12) space-624054_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- space-624054_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- space-624054_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-624054_960_720.jpg
+--	 MD5(value):- [ 482b0880d29aeb65d2d84f11836b409a ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (13) water-1555170_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- water-1555170_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- water-1555170_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-1555170_960_720.jpg
+--	 MD5(value):- [ 077a6c23197d2798855bb7c564f4d7e3 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (14) water-945409_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- water-945409_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- water-945409_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-945409_960_720.jpg
+--	 MD5(value):- [ b9a4e039c41810ea05f02ba706fae7c0 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (15) waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 MD5(value):- [ 8ca075f0c009d195295210844373367d ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (16) 4-Nature-Wallpapers-2014-1_ukaavUI.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 MD5(value):- [ b56c3ca44ed0e173e11ef11d9a7a4827 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (17) Background.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- Background.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- Background.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\Background.jpg
+--	 MD5(value):- [ b5c54acdfeb61dd1ee1a3bc6e60b0c3e ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (18) car-49278_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- car-49278_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- car-49278_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\car-49278_960_720.jpg
+--	 MD5(value):- [ 1f85137f3003479b8f113f851113e7d3 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (19) space-624054_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- space-624054_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- space-624054_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\space-624054_960_720.jpg
+--	 MD5(value):- [ 482b0880d29aeb65d2d84f11836b409a ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (20) waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 MD5(value):- [ 8ca075f0c009d195295210844373367d ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (21) 4-Nature-Wallpapers-2014-1_ukaavUI.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- 4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+--	 MD5(value):- [ b56c3ca44ed0e173e11ef11d9a7a4827 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (22) Background.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- Background.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- Background.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\Background.jpg
+--	 MD5(value):- [ b5c54acdfeb61dd1ee1a3bc6e60b0c3e ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (23) car-49278_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- car-49278_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- car-49278_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\car-49278_960_720.jpg
+--	 MD5(value):- [ 1f85137f3003479b8f113f851113e7d3 ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (24) space-624054_960_720.jpg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- space-624054_960_720.jpg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- space-624054_960_720.jpg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\space-624054_960_720.jpg
+--	 MD5(value):- [ 482b0880d29aeb65d2d84f11836b409a ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+-----------------------------------JPG HEADER FILE NUMBER (25) waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg MATCH WITH MD5 HASHING ANALYSIS-----------------------------------
+--	 The file:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg with 4 byte header:- ( b'\xff\xd8\xff\xe0' ) == jpgHead ( b'\xff\xd8\xff\xe0' ) 
+--	 File Name:- waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 Directory:- C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+--	 MD5(value):- [ 8ca075f0c009d195295210844373367d ] 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+=================================================END OF PROGRAME FILE OUTPUT=================================================
