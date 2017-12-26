@@ -1,0 +1,806 @@
+(C:\ProgramData\Anaconda3) C:\PythonFolder\Reading-Files-Hashing-Python>python.exe MG-Reading-Files-hashing-bytes-of-jpg.py
+
+
+                         ======PROGRAME INFORMATION======
+
+                                 Name: Mojahed Ghadban
+         Reading Files/Directories and Hashing with Python.
+Description: Module to calculate the MD5 values of JPEG files within directories and subdirectories
+                             Usage: python.exe MG-Reading-Files-hashing-bytes-of-jpg.py
+
+
+
+
+ The following file:  .gitignore Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  JPG-Results.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The Current Opened Python script named:  MG-Reading-Files-hashing-bytes-of-jpg.py Exists, but doesn't match criteria
+
+
+
+
+ The following file:  readme.md Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  readme.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  requirements.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  4-Nature-Wallpapers-2014-1_ukaavUI.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  A Simple HTML File.htm Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple PDF File.pdf Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.doc Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.docx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  Background.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\Background.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  car-49278_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\car-49278_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  car-967470_960_720.png Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  colorschememapping.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  filelist.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  space-624054_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\space-624054_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  TextFile - Copy (2).txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile - Copy.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  themedata.thmx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  4-Nature-Wallpapers-2014-1_ukaavUI.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  A Simple HTML File.htm Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple PDF File.pdf Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.doc Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.docx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  Background.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Background.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  car-49278_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\car-49278_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  car-967470_960_720.png Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  Clouds_over_the_Atlantic_Ocean.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Clouds_over_the_Atlantic_Ocean.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  ExcelFile001.xls Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  ExcelFile001.xlsx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  ocean.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\ocean.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  space-1201086_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-1201086_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  space-624054_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-624054_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  TestMGFile001.py Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TestMGFile002.py Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TestMGFile003.py Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TestMGFile004.py Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile - Copy (2).txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile - Copy (3).txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile - Copy.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile002.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile003.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  water-1555170_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-1555170_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  water-945409_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-945409_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  colorschememapping.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  filelist.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  themedata.thmx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  4-Nature-Wallpapers-2014-1_ukaavUI.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  A Simple HTML File.htm Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple PDF File.pdf Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.doc Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.docx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  Background.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\Background.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  car-49278_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\car-49278_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  car-967470_960_720.png Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  space-624054_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\space-624054_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  TextFile - Copy (2).txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile - Copy.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  colorschememapping.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  filelist.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  themedata.thmx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  4-Nature-Wallpapers-2014-1_ukaavUI.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  A Simple HTML File.htm Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple PDF File.pdf Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.doc Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  A Simple Word File.docx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  Background.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\Background.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+ The file:  car-49278_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\car-49278_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  car-967470_960_720.png Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  space-624054_960_720.jpg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\space-624054_960_720.jpg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  TextFile - Copy (2).txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  TextFile - Copy.txt Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+ The file:  waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg  Matches criteria:
+ File first 4 byes header =  b'\xff\xd8\xff\xe0'
+ Globally Defined jpgHead =  b'\xff\xd8\xff\xe0'
+ In directory: C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+ Are eaqual
+
+ More Information with MD5 Value is printed in an Output file
+ Located at directory:
+  C:\PythonFolder\Reading-Files-Hashing-Python  and named:  JPG-Results.txt
+
+
+
+ The following file:  colorschememapping.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  filelist.xml Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  themedata.thmx Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ The following file:  MG-Reading-Files-hashing-bytes-of-jpg.cpython-36.pyc Exists, but either:
+        1) Could be JPG file but globally defined jpgHead and file header don't match
+        2) File is not jpg file
+        3) File doesn't match criteria
+
+
+
+ Total Files Found and Scanned =  82  files.
+ The following files were found and scanned:
+  1 )  C:\PythonFolder\Reading-Files-Hashing-Python\.gitignore
+  2 )  C:\PythonFolder\Reading-Files-Hashing-Python\JPG-Results.txt
+  3 )  C:\PythonFolder\Reading-Files-Hashing-Python\MG-Reading-Files-hashing-bytes-of-jpg.py
+  4 )  C:\PythonFolder\Reading-Files-Hashing-Python\readme.md
+  5 )  C:\PythonFolder\Reading-Files-Hashing-Python\readme.txt
+  6 )  C:\PythonFolder\Reading-Files-Hashing-Python\requirements.txt
+  7 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  8 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\A Simple HTML File.htm
+  9 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\A Simple PDF File.pdf
+  10 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\A Simple Word File.doc
+  11 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\A Simple Word File.docx
+  12 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\Background.jpg
+  13 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\car-49278_960_720.jpg
+  14 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\car-967470_960_720.png
+  15 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\colorschememapping.xml
+  16 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\filelist.xml
+  17 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\space-624054_960_720.jpg
+  18 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\TextFile - Copy (2).txt
+  19 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\TextFile - Copy.txt
+  20 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\themedata.thmx
+  21 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+  22 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  23 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\A Simple HTML File.htm
+  24 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\A Simple PDF File.pdf
+  25 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\A Simple Word File.doc
+  26 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\A Simple Word File.docx
+  27 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Background.jpg
+  28 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\car-49278_960_720.jpg
+  29 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\car-967470_960_720.png
+  30 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Clouds_over_the_Atlantic_Ocean.jpg
+  31 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\ExcelFile001.xls
+  32 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\ExcelFile001.xlsx
+  33 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\ocean.jpg
+  34 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-1201086_960_720.jpg
+  35 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-624054_960_720.jpg
+  36 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TestMGFile001.py
+  37 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TestMGFile002.py
+  38 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TestMGFile003.py
+  39 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TestMGFile004.py
+  40 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TextFile - Copy (2).txt
+  41 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TextFile - Copy (3).txt
+  42 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TextFile - Copy.txt
+  43 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TextFile.txt
+  44 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TextFile002.txt
+  45 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\TextFile003.txt
+  46 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-1555170_960_720.jpg
+  47 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-945409_960_720.jpg
+  48 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+  49 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\A Simple HTML File_files\colorschememapping.xml
+  50 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\A Simple HTML File_files\filelist.xml
+  51 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\A Simple HTML File_files\themedata.thmx
+  52 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  53 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\A Simple HTML File.htm
+  54 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\A Simple PDF File.pdf
+  55 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\A Simple Word File.doc
+  56 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\A Simple Word File.docx
+  57 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\Background.jpg
+  58 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\car-49278_960_720.jpg
+  59 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\car-967470_960_720.png
+  60 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\space-624054_960_720.jpg
+  61 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\TextFile - Copy (2).txt
+  62 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\TextFile - Copy.txt
+  63 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+  64 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\A Simple HTML File_files\colorschememapping.xml
+  65 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\A Simple HTML File_files\filelist.xml
+  66 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\A Simple HTML File_files\themedata.thmx
+  67 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  68 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\A Simple HTML File.htm
+  69 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\A Simple PDF File.pdf
+  70 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\A Simple Word File.doc
+  71 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\A Simple Word File.docx
+  72 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\Background.jpg
+  73 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\car-49278_960_720.jpg
+  74 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\car-967470_960_720.png
+  75 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\space-624054_960_720.jpg
+  76 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\TextFile - Copy (2).txt
+  77 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\TextFile - Copy.txt
+  78 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+  79 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\A Simple HTML File_files\colorschememapping.xml
+  80 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\A Simple HTML File_files\filelist.xml
+  81 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\A Simple HTML File_files\themedata.thmx
+  82 )  C:\PythonFolder\Reading-Files-Hashing-Python\__pycache__\MG-Reading-Files-hashing-bytes-of-jpg.cpython-36.pyc
+
+
+
+ Total Files Matched Criteria =  25  files out of  82 total files.
+ Below are files which matched criteria:
+ More information found on :  JPG-Results.txt
+ Located in Directory: C:\PythonFolder\Reading-Files-Hashing-Python
+ Files are:-
+  1 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  2 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\Background.jpg
+  3 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\car-49278_960_720.jpg
+  4 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\space-624054_960_720.jpg
+  5 )  C:\PythonFolder\Reading-Files-Hashing-Python\A Simple HTML File_files\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+  6 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  7 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Background.jpg
+  8 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\car-49278_960_720.jpg
+  9 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\Clouds_over_the_Atlantic_Ocean.jpg
+  10 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\ocean.jpg
+  11 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-1201086_960_720.jpg
+  12 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\space-624054_960_720.jpg
+  13 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-1555170_960_720.jpg
+  14 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\water-945409_960_720.jpg
+  15 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+  16 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  17 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\Background.jpg
+  18 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\car-49278_960_720.jpg
+  19 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\space-624054_960_720.jpg
+  20 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+  21 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\4-Nature-Wallpapers-2014-1_ukaavUI.jpg
+  22 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\Background.jpg
+  23 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\car-49278_960_720.jpg
+  24 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\space-624054_960_720.jpg
+  25 )  C:\PythonFolder\Reading-Files-Hashing-Python\Child-Dir\child-dir002\child-dir4\waterfall-thac-dray-nur-buon-me-thuot-daklak-68147.jpeg
+
+
+
+        Exiting Program.....
